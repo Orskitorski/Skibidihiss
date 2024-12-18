@@ -20,7 +20,7 @@ Efter att vi var klar med koden och det fungerade (trodde vi) så flyttade vi ti
 
 ## Positiva erfarenheter
 
-Jag tycker själva grupparbetet har gått ganska bra. Även om vissa personer visste mer om vissa områden, (Kevin(Unity)), så var alla aktiva och engagerade i projektet och vi diskuterade lösningar tillsammans, samt lät alla programmera.
+Jag tycker själva grupparbetet har gått ganska bra. Även om vissa personer visste mer om vissa områden, (Kevin(Unity)), så var alla aktiva och engagerade i projektet och vi diskuterade lösningar tillsammans, samt lät alla programmera. Jag har lärt mig mer om Unity och C# och detta projekt har varit givande för min utveckling som programmerare, både inom problemformulering och problemlösning.
 
 ## Negativa erfarenheter
 
